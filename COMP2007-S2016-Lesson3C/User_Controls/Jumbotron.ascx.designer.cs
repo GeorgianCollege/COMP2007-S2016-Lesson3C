@@ -7,18 +7,18 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP2007_S2016_Lesson3C {
+namespace COMP2007_S2016_Lesson3C.User_Controls {
     
     
-    public partial class Default {
+    public partial class Jumbotron {
         
         /// <summary>
-        /// Jumbotron1 control.
+        /// content control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::COMP2007_S2016_Lesson3C.User_Controls.Jumbotron Jumbotron1;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl content;
     }
 }
